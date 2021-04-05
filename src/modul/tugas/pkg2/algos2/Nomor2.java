@@ -47,6 +47,6 @@ public class Nomor2 {
         }else{
             System.out.println("Data Tidak Dapat Ditemukan ");
         }
-        
+        System.out.println("Mokhamad Akbar Wijaya(20090037)");
     }
 }
